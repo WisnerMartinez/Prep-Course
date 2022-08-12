@@ -1,0 +1,40 @@
+Hola, Acontinuación dare respuesta a las preguntas planteadas en el README.md de este modulo. 
+
+
+¿QUE ES UNA VARIABLE?
+
+Entendi como variable a una palabra reservada llamada "var" que me sirve como una especie de cajita donde yo le puedo poner un nombre a esa caja y le puede asignar algo que quiero guardar en esa cajita.
+
+¿QUE ES UN STRING ?
+
+Según lo explicado por el profe  es como un hilo o bloque de texto que es identificado con unas comillas ya sean simples o dobles ej: Var nombre = 'Wisner';
+
+
+!! FUNCION (ARGUMENTO , RETURN)
+
+Para mi una función son como instruciones que realiza una tarea determinada y debe recibir algo y devolver algo 
+
+ARGUMENTO 
+
+Es una variable que solo funciona dentro de los parametros de una funcion
+
+RETURN
+
+Es una forma de escape que declaramos para lo que este dentro de la funcion ya asignada, pueda retorna fuera de la misma sin que sea un error o un undefined.
+
+!!DECLARACIONES "IF"
+
+Sirve para el control de flujo de algo que puede tener mas de una ruta diferente de resolverse se usa "if" para especificar que si mi codigo tiene esto entonces que pase esto, de lo contrario (else) quiero que pase esto  
+
+tambien existe el (else if) que significa que de lo contrario SI ... ocurre este alternativa haga lo que se le especifico en la misma.
+
+
+BOOLEANS TRUE AND FALSE 
+
+Como su nombre lo dice sirve para definir si algo es verdadero o falso segun las declariones que hayamos hecho o si el valor que hemos asignado corresponde a la logica que deberia tener una cantidades o edades etc.
+
+ej:
+
+5 > 7 ; // Sabemos que esto es falso ya que 5 no es mayor que 7
+false
+
