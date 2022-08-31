@@ -1,0 +1,24 @@
+1  
+
+   
+   °°  BUCLES  °°
+ 
+ // For \\
+
+// El "For" es un bucle que servira para hacer tareas repetitivas como imprimir  numeros o strins etc las veces que le indiquemos.
+  
+
+       °° OPERADORES LOGICOS °°
+
+  //-- && --\\
+
+Sirve como "Y" o "AND (en ingles)" y como su expresion lo dice, nos ayuda a comparar dos expresiones y si las expresiones son verdaderas nos dara un (True), en cambio si una de ellas es falsa o si todas dos son falsas nos de volvera lo contrario (False) 
+
+
+
+  //-- || --\\  
+ Sirve como "O" u "OR (en ingles)" y esta operador nos sirve para determinar si las expresiones son verdaderas o una de ella es falsa nos devolvera (True), y solo nos devolvera (False) si ambas son falsas.
+
+  //-- ! --\\
+
+Se le conoce como operador de negacion "NOT" y sirve para dar la respuesta contraria.
