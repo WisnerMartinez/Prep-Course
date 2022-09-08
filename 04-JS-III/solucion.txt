@@ -1,0 +1,2 @@
+  *ARRAYS*
+  Es una cajita donde podemos guardar cualquier tipo de dato que querramos ya sean strings,numeros,booleanos,undefine,etc y no necesariamente tienen que ser del mismo tipo ya que podemos incluso guardar todos estos datos diferentes en un solo arreglo.
