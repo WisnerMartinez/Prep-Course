@@ -1,0 +1,30 @@
+/// OBJETOS ///
+Un objeto es algo que es independiente y tiene muchas cualidades dentro de si mismo
+ej : un Maletin es un objeto 
+
+/// PROPIEDADES ///
+
+es una asocion entre un Key:Value 
+ej
+un maletin tiene muchas propiedades tales como : 
+color, diseño, material, peso, tamaño etc
+y dentro de este value pueden haber una funcion especifica que puede cumplir este value y esto lo conocemos como:
+
+/// METODOS///
+que este sigue un para,etros de instrucciones que se puden ejecutar para darle el uso necesario a nuestro Objeto, 
+si seguimos el ejemplo de maletin podemos ver que rste cumple metodos tales como:
+abrir el cierre, cerrar el cierre, guardar materiales etc.
+
+
+.... FOR...IN....
+
+Entiendo que este bucle solo va a funcionar sobre los objetos que no tienen como tal un indice numerico ej {nombre : "Juan", Apellido : "Belsazar" , Edad : "34" }; estos como tal no tienen indice numerico ya que esos estan ciendo remplanzados por la Clave que en este caso serian nombre, Apellido y Edad y no por el 0,1,2 como clave.
+
+
+///NOTACION DE PUNTOS///
+La notación de puntos hace que el código sea más legible. Es la forma más popular de acceder a la propiedad de un objeto.
+
+
+
+///NOTACION DE CORCHETES///
+La notación de corchetes se utiliza cuando el nombre de la propiedad es un identificador de notación de puntos no válido.
